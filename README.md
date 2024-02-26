@@ -6,12 +6,12 @@ Please sign up by _________ .
 Link:
 
 ## Requirements
--Small report document for judges
--Methods section
--Some visualization
--Modelling results
--Descriptive Statistics to argue the models suitability
--5-10 minute presentation
+- Small report document for judges
+- Methods section
+- Some visualization
+- Modelling results
+- Descriptive Statistics to argue the models suitability
+- 5-10 minute presentation
 
 
 ## Prizes
@@ -21,7 +21,7 @@ Given for most informative and enlightening visualizations of the data.
 Prize:
 
 ### 2. Best Modelling
-Given for the best performing model by emperical metrics(subject to judgement by senior judges)
+Given for the best performing model by emperical metrics (subject to judgement by senior judges)
 Prize:
 
 ### 3. Best Presentation
